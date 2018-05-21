@@ -1,0 +1,22 @@
+<?php
+$lang['login']='S&#039;identifier'; 
+$lang['become_tasker']='Devenez un Tasker'; 
+$lang['dashboard']='Tableau de bord'; 
+$lang['inbox']=' Bo&icirc;te de r&eacute;ception'; 
+$lang['my_account']='Mon compte'; 
+$lang['logout']=' Connectez - Out'; 
+$lang['make_your_life']='Faites votre vie'; 
+$lang['simple_and_easy']='Simple et facile!'; 
+$lang['heading']='Du nettoyage majeur aux r&eacute;parations mineures,'; 
+$lang['heading1']='nous faisons du travail &agrave; la maison.'; 
+$lang['book_cleaning']=' Nettoyage de livres'; 
+$lang['heading2']=' Mettre Service Rabbit au travail'; 
+$lang['book']=' Livre'; 
+$lang['how_it_works']='Comment &ccedil;a marche ?'; 
+$lang['search_your']=' Recherchez votre'; 
+$lang['need']=' Avoir besoin'; 
+$lang['compare']=' Comparer'; 
+$lang['quotes']=' Citations'; 
+$lang['hire']='Louer'; 
+$lang['servicer']=' Agent de service'; 
+$lang['our_app']=' Notre app';  ?>
